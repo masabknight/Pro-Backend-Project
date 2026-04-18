@@ -1,0 +1,16 @@
+{
+  "name": "07-pro-backend-project",
+  "version": "1.0.0",
+  "description": "a pro backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Masab",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
